@@ -1,4 +1,4 @@
-# _<p align="center">Hogumach😎_<p>
+# _<p align="center">Hogumachu😎_<p>
 ## _<p align="center">🌱열심히 하자🌱_<p>
 
 
