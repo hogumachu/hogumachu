@@ -114,7 +114,7 @@ parser.load(url: Constants.blogLink) { contents in
     let newContent = content + Constants.blogTitle + "\n" + postContent
     let newData = newContent.data(using: .utf8)!
     try! FileManager.default.removeItem(at: readmePath)
-    FileManager.default.createFile(atPath: readmePath.path(), contents: newData)
+    FileManager.default.createFile(atPath: readmePath.path, contents: newData)
 }
 
 sleep(5)
