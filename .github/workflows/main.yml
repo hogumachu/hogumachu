@@ -1,0 +1,27 @@
+name: Blog Update
+
+# on:
+#   schedule:
+#     - cron: '0 0 * * *'
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  run_swift_script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Swift
+        uses: actions/setup-swift@v2
+        with:
+          swift-version: '5.5'
+
+      - name: Run Swift Script
+        run: |
+          swift run main.swift
