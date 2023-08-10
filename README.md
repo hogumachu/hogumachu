@@ -8,9 +8,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hogumachu&layout=compact)](https://github.com/hogumachu)
 ## Blog
+* [[운영체제] 시스템 호출 (System Call)](https://hogumachu.tistory.com/29)
 * [[Swift] 티스토리 블로그를 자동으로 Github에 업데이트 (Git Actions)](https://hogumachu.tistory.com/28)
 * [[운영체제] 커널(Kernel)](https://hogumachu.tistory.com/27)
 * [[iOS] Life Cycle (App, Scene 생명 주기)](https://hogumachu.tistory.com/26)
 * [[iOS] UITextField를 RxDelegateProxy를 이용하여 사용해보자](https://hogumachu.tistory.com/25)
 * [[프로그래머스] 주차 요금 계산 (2022 KAKAO BLIND RECRUITMENT) Swift](https://hogumachu.tistory.com/24)
-* [[백준] 1,2,3 더하기 3 (15988번)](https://hogumachu.tistory.com/22)
