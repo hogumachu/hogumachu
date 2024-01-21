@@ -8,9 +8,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hogumachu&layout=compact)](https://github.com/hogumachu)
 ## Blog
+* [[iOS] 모듈화를 해야 하는 이유](https://hogumachu.tistory.com/35)
 * [[iOS] ViewController Life Cycle (+ ViewIsAppearing)](https://hogumachu.tistory.com/34)
 * [[iOS] RxSwift를 이용하여 키보드 컨트롤하기 (NotificationCenter)](https://hogumachu.tistory.com/33)
 * [[OOP] 객체지향프로그래밍 기초](https://hogumachu.tistory.com/32)
 * [[운영체제] 스레드(Thread)](https://hogumachu.tistory.com/31)
 * [[운영체제] 프로세스(Process)](https://hogumachu.tistory.com/30)
-* [[운영체제] 시스템 호출 (System Call)](https://hogumachu.tistory.com/29)
