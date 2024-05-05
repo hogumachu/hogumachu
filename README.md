@@ -8,9 +8,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hogumachu&layout=compact)](https://github.com/hogumachu)
 ## Blog
+* [[iOS] SwiftUI, TCA 모듈화 그리고 RIBs](https://hogumachu.tistory.com/40)
 * [[OOP] SOLID 원칙 for iOS](https://hogumachu.tistory.com/38)
 * [[iOS] ViewController 테스트 작성하기](https://hogumachu.tistory.com/37)
 * [[iOS] 테스트를 작성해야 하는 이유](https://hogumachu.tistory.com/36)
 * [[iOS] 모듈화를 해야 하는 이유](https://hogumachu.tistory.com/35)
 * [[iOS] ViewController Life Cycle (+ ViewIsAppearing)](https://hogumachu.tistory.com/34)
-* [[iOS] RxSwift를 이용하여 키보드 컨트롤하기 (NotificationCenter)](https://hogumachu.tistory.com/33)
