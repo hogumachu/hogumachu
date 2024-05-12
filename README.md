@@ -8,9 +8,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hogumachu&layout=compact)](https://github.com/hogumachu)
 ## Blog
+* [경직된 회사에서 개발자로 잘 자라기](https://hogumachu.tistory.com/41)
 * [[iOS] SwiftUI, TCA 모듈화 그리고 RIBs](https://hogumachu.tistory.com/40)
 * [[OOP] SOLID 원칙 for iOS](https://hogumachu.tistory.com/38)
 * [[iOS] ViewController 테스트 작성하기](https://hogumachu.tistory.com/37)
 * [[iOS] 테스트를 작성해야 하는 이유](https://hogumachu.tistory.com/36)
 * [[iOS] 모듈화를 해야 하는 이유](https://hogumachu.tistory.com/35)
-* [[iOS] ViewController Life Cycle (+ ViewIsAppearing)](https://hogumachu.tistory.com/34)
