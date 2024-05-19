@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hogumachu&layout=compact)](https://github.com/hogumachu)
 ## Blog
-* [경직된 회사에서 개발자로 잘 자라기](https://hogumachu.tistory.com/41)
+* [탑다운 회사에서 개발자로 잘 자라기](https://hogumachu.tistory.com/41)
 * [[iOS] SwiftUI, TCA 모듈화 그리고 RIBs](https://hogumachu.tistory.com/40)
 * [[OOP] SOLID 원칙 for iOS](https://hogumachu.tistory.com/38)
 * [[iOS] ViewController 테스트 작성하기](https://hogumachu.tistory.com/37)
