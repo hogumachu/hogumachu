@@ -1,7 +1,7 @@
 # _<p>Hogumachu 🦧_<p>
 
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7348?style=flat-square&logo=swift&logoColor=white&link=)
-[![Blog Update](https://github.com/hogumachu/hogumachu/actions/workflows/main.yml/badge.svg)](https://github.com/hogumachu/hogumachu/actions/workflows/main.yml)
+[![Blog deployed trigger](https://github.com/hogumachu/hogumachu/actions/workflows/swift.yml/badge.svg)](https://github.com/hogumachu/hogumachu/actions/workflows/swift.yml)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hogumachu)](https://github.com/hogumachu)
 
