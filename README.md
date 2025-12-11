@@ -3,9 +3,6 @@
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7348?style=flat-square&logo=swift&logoColor=white&link=)
 [![Blog deployed trigger](https://github.com/hogumachu/hogumachu/actions/workflows/swift.yml/badge.svg)](https://github.com/hogumachu/hogumachu/actions/workflows/swift.yml)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hogumachu)](https://github.com/hogumachu)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hogumachu&layout=compact)](https://github.com/hogumachu)
 ## Blog
 * [의존성 주입에 대해서](https://hogumachu.github.io/article/dependency-injection)
 * [클린 아키텍처를 쓰는 이유](https://hogumachu.github.io/article/clean-architecture)
